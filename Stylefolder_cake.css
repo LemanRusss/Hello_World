@@ -1,5 +1,12 @@
 body {background-color:lightblue;}
 h1 {color: green; text-align: center;}
 h2 {color: red; text-align: center;}
+h3 {color:black; text-align: center;}
+div {
+width:250px;
+border: 15px;
+padding: 50px;
+margin: 20px;
+}
 p {font-family: garamond; font-size:20px}
 
