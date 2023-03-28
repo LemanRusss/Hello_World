@@ -4,10 +4,18 @@
     <desc>This document is for displaying how many classes I have per day.</desc>    
     <g alignment-baseline="baseline" transform="translate (25, 500)"></g>
         
-        <text x="300" y="75" font-family="garamond"  font-size="40px" fill="red">Classes I Have Per Day</text>
-            <rect x="100" y="500" height="300" width="100" stroke="black" stroke-width="5" fill="blue"/>
-            <rect x="250" y="500" height="200" width="100" stroke="black" stroke-width="5" fill="blue"/>
-            <rect x="400" y="500" height="300" width="100" stroke="black" stroke-width="5" fill="blue"/>
-             <rect x="550" y="500" height="200" width="100" stroke="black" stroke-width="5" fill="blue"/>
-             <rect x="700" y="500" height="200" width="100" stroke="black" stroke-width="5" fill="blue"/>
+        <text x="300" y="75" font-family="garamond"  font-size="40px" fill="black">Classes I Have Per Day</text>
+        <text x="50" y="225" font-family="garamond"  font-size="40px" fill="black">3</text>
+         <text x="50" y="325" font-family="garamond"  font-size="40px" fill="black">2</text>
+         <text x="50" y="425" font-family="garamond"  font-size="40px" fill="black">1</text>
+<text x="110" y="550" font-family="garamond"  font-size="40px" fill="black">M</text>
+                <rect x="100" y="200" height="300" width="50" stroke="black" stroke-width="5" fill="red"/>
+<text x="215" y="550" font-family="garamond"  font-size="40px" fill="black">T</text>
+                <rect x="200" y="300" height="200" width="50" stroke="black" stroke-width="5" fill="blue"/>
+<text x="310" y="550" font-family="garamond"  font-size="40px" fill="black">W</text>
+                <rect x="300" y="200" height="300" width="50" stroke="black" stroke-width="5" fill="red"/>
+<text x="400" y="550" font-family="garamond"  font-size="40px" fill="black">TH</text>
+                <rect x="400" y="300" height="200" width="50" stroke="black" stroke-width="5" fill="blue"/>
+<text x="515" y="550" font-family="garamond"  font-size="40px" fill="black">F</text>
+                <rect x="500" y="300" height="200" width="50" stroke="black" stroke-width="5" fill="red"/>
 </svg>
